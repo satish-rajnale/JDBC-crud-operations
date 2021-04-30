@@ -26,7 +26,7 @@
 <br>
 
 <div class="container col-md-5">
-		<div class="card" style="height: 70vh;">
+		<div class="card" style="height: 600px;">
 			<div class="card-body">
 				<c:if test="${user != null}">
 					<form action="update" method="post">
