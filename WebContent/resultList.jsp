@@ -16,7 +16,7 @@
 		<nav class="navbar navbar-expand-md navbar-dark"
 			style="background-color: green">
 			<div>
-				<a href="https://shantanu-dom.netlify.app/" class="navbar-brand"> User
+				<a href="/jspToSql/home.jsp" class="navbar-brand"> User
 					Management App </a>
 			</div>
 
